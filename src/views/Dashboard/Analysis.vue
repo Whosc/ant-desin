@@ -1,7 +1,5 @@
 <template>
-  <div id="app">
-    <router-view />
-  </div>
+  <div>这是分析页面</div>
 </template>
 
 <script>
